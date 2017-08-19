@@ -1,10 +1,8 @@
-# README #
-
-### Codeforces Start Project
-[Codeforces Round №ххх](http://codeforces.com) 
+### Codeforces Project
+[Codeforces Round №429](http://codeforces.com/contest/841) 
 
 ## Problems:
-* A. Not solved
+* A. Solved
 * B. Not solved
 * C. Not solved
 * D. Not solved
